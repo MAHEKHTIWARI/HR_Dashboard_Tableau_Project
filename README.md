@@ -1,6 +1,8 @@
 # HR Dashboard Tableau Project
 ![HR Dashboard](https://github.com/MAHEKHTIWARI/HR_Dashboard_Tableau_Project/blob/main/Final_Dashboards/HR%20%20Details%201.png)
+
 ![HR Dashboard](https://github.com/MAHEKHTIWARI/HR_Dashboard_Tableau_Project/blob/main/Final_Dashboards/HR%20%20Details.png)
+
 ![HR Dashboard](https://github.com/MAHEKHTIWARI/HR_Dashboard_Tableau_Project/blob/main/Final_Dashboards/HR%20%20Summary.png)
 
 ## Overview
